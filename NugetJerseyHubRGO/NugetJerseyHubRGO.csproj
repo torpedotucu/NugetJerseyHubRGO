@@ -9,6 +9,7 @@
     <Description>Nuget for JerseyHub project</Description>
     <PackageIcon>logo-clean.png</PackageIcon>
     <PackageTags>jerseyhub, rgo </PackageTags>
+    <Version>2.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
